@@ -1113,7 +1113,7 @@
               <div class="contact-line">Local Answer</div>
             </div>
             <div class="cta-row">
-              <a class="btn" style="width:100%;background:#2563eb;color:white;" href="mailto:your@email.com">Contact me</a>
+              <a class="btn" style="width:100%;background:#2563eb;color:white;" href="mailto:localanswers.co@gmail.com">Contact me</a>
             </div>
             <div class="footer-note">Built and operated by Samuel Richardson</div>
           </div>
